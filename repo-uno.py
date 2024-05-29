@@ -12,4 +12,9 @@ positions_a.append(24)
 print(positions_a)
 
 positions_a.insert(2, 45)
+
+print(positions_a)
+
+positions_a.pop(3)
+
 print(positions_a)
